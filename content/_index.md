@@ -134,7 +134,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thomas Colin, Lead dev
 * Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
 * [Grégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * Amélie Defrance, Intégratrice
 * Baptiste Defrance, SOC Analyst
@@ -172,6 +171,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
 * Tam Kien Duong, data.gouv.fr
 * Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
+* [Antoine Kuhn](https://www.linkedin.com/in/antoine-kuhn/), Développeur Fullstack, SpaceAble
 * Pierre Kuhner, Ingénieur sécurité
 * Fabien Labrousse, développeur, salarié
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
@@ -182,6 +182,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * Florian Lemaitre, Lead developer, salarié
+* Frederic Lieto, Ingenieur BDD
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * Julien Manganne, développeur
@@ -191,11 +192,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
 * Colin Maudry, Conseiller indépendant en Open Data
+* [Julien Maulny](https://twitter.com/alcalyn_), développeur
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
-* [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Romain Neutron](https://twitter.com/romainneutron)
-* [Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Fabrice Nourisson, développeur, salarié
 * Jean Paliès, développeur
@@ -204,10 +204,11 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Bastien Picharles](https://twitter.com/kleinast), développeur
 * [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
 * [Jules Pietri](https://twitter.com/julespietri)
+* [Anthony Plomion](https://twitter.com/anthony_plomion), consultant marketing, Freelance
 * [Damien Pobel](https://damien.pobel.fr/)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Bruno Pourtier](https://twitter.com/thebeardman), Tech Lead à Publicis Sapient
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Nicolas Quéquet, développeur
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
@@ -237,7 +238,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-* [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 
 ### Organisations
 
